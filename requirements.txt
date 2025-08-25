@@ -1,1 +1,5 @@
-qrcode[pil]\ncustomtkinter
+qrcode[pil]
+customtkinter
+Pillow
+pyperclip
+PyPix
